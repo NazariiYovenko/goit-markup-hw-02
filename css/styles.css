@@ -46,10 +46,6 @@ body {
   text-decoration: none;
 }
 
-.command {
-  background-color: var(--secondary-background-color);
-}
-
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -187,6 +183,10 @@ body {
   letter-spacing: 0.03em;
 }
 /* Команда */
+.command {
+  background-color: var(--secondary-background-color);
+}
+
 .command .title {
   font-weight: 700;
   font-size: 36px;
