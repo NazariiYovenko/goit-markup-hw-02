@@ -107,10 +107,6 @@ body {
   font-style: normal;
 }
 
-.footer-contacts .address {
-  color: var(--invert-text-color);
-}
-
 .footer-contacts .link {
   color: var(--third-text-color);
 }
@@ -118,6 +114,10 @@ body {
 .footer-contacts .link:hover,
 .footer-contacts .link:focus {
   color: var(--accent);
+}
+
+.footer-contacts .address {
+  color: var(--invert-text-color);
 }
 
 /* Герой */
